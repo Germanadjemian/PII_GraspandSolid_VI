@@ -5,7 +5,7 @@ namespace Full_GRASP_And_SOLID
 {
     public interface TimerClient
     {
-        void TimeOut();
+    void TimeOut();
     }
 
     public class CountdownTimer
